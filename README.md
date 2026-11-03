@@ -1,6 +1,6 @@
 # HuasiStudios
 
-Plugins VST gratuitos para **Ableton Live** (Windows 64 bits), hechos para **hard house, new style y hardcore**.
+Plugins VST gratuitos para **Ableton Live** y otros DAW (Windows 64 bits), hechos para **hard house, new style y hardcore**.
 Creados por **Carlos Auza** · © 2026 HuasiStudios.
 
 | Plugin | Versión | Qué hace |
