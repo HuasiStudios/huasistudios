@@ -1,12 +1,12 @@
 {
-  "pack": "2.2",
+  "pack": "2.3",
   "download": "https://github.com/HuasiStudios/huasistudios/releases/latest",
   "plugins": {
     "Punku-Kicks": {
       "version": "3.2.0"
     },
     "Huasi Lead 2": {
-      "version": "2.1.0"
+      "version": "3.0.0"
     },
     "Huasi MIDI Gen": {
       "version": "3.0.0"
@@ -16,6 +16,9 @@
     },
     "Huasi Vox Chop": {
       "version": "2.1.0"
+    },
+    "π-Tidos": {
+      "version": "3.0.0"
     }
   }
 }
