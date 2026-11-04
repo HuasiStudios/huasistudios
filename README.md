@@ -5,11 +5,14 @@ Creados por **Carlos Auza** · © 2026 HuasiStudios.
 
 | Plugin | Versión | Qué hace |
 |---|---|---|
-| **Punku-Kicks** | 3.1 | Bombos con 3 capas, curvas de puntos, FX, IA, clonar kick, sample packs y FAVORITOS |
-| **Huasi Lead 2** | 2.0 | Sintetizador de leads: 3 osciladores dibujables, LFOs, matriz y efectos |
-| **Huasi MIDI Gen** | 2.1 | MIDI en C3 y en tu tono: kicks, lead, pitidos, bajo, percusión y FAVORITOS, con MIDI out |
-| **Huasi Master** | 2.0 | Mastering con IA, tema de referencia, clipper y comparación A/B |
-| **Huasi Vox Chop** | 2.0 | Trocea una acapella: cada trozo una nota, con pitch, hard-tune y efectos de DJ |
+| **Punku-Kicks** | 3.2 | Bombos con 3 capas, 9 géneros, FAVORITOS, ESPECIALES, FX e IA |
+| **π-Tidos** (antes Huasi Lead 2) | 3.0 | Pitidos y leads: 318 ondas (AKWF, CC0), oscilador de sample con modo pitido, 12 efectos |
+| **Huasi MIDI Gen** | 3.0 | MIDI: kicks, lead, pitidos, bajo, percu, PADS y MELODÍAS, con 1855 presets por género |
+| **Huasi Master** | 2.2 | Mastering con IA, 40 presets por género, multibanda, pegada, aire y A/B |
+| **Huasi Vox Chop** | 2.1 | Trocea una acapella (arrastrada desde Live): cada trozo una nota, con hard-tune y efectos de DJ |
+
+En todos: idioma español / inglés, buscar actualización, reportar fallos y skin con tu foto
+("Si quieres, pon la cara de tu perro").
 
 ## Descargar e instalar
 
