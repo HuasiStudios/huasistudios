@@ -1,11 +1,21 @@
 {
-  "pack": "2.1",
+  "pack": "2.2",
   "download": "https://github.com/HuasiStudios/huasistudios/releases/latest",
   "plugins": {
-    "Punku-Kicks":    { "version": "3.1.0" },
-    "Huasi Lead 2":   { "version": "2.0.0" },
-    "Huasi MIDI Gen": { "version": "2.1.0" },
-    "Huasi Master":   { "version": "2.0.0" },
-    "Huasi Vox Chop": { "version": "2.0.0" }
+    "Punku-Kicks": {
+      "version": "3.2.0"
+    },
+    "Huasi Lead 2": {
+      "version": "2.1.0"
+    },
+    "Huasi MIDI Gen": {
+      "version": "3.0.0"
+    },
+    "Huasi Master": {
+      "version": "2.2.0"
+    },
+    "Huasi Vox Chop": {
+      "version": "2.1.0"
+    }
   }
 }
